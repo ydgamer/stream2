@@ -1,0 +1,14 @@
+{
+  "name": "yd el m3rs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ydal3rs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ahmed sniper",
+  "dependencies": {
+   "discord.js": "^11.4.2"
+  }
+}
